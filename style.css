@@ -1,0 +1,97 @@
+h1{
+    text-align: center;
+
+    background-color: #383377;
+
+    color: rgb(255, 255, 255);
+
+    padding: 25px;
+
+    margin-bottom: 50px;
+
+}
+
+body {
+    background-color:#F5F5F5;
+
+  }
+  
+.zagolovki {
+    font-family: "Courier New", Courier;
+
+    font-size: 22px;
+
+    font-weight: bold;
+    
+  }
+
+  .zagolovki, p, h2, ul, ol {
+    padding-right: 10%;
+
+    padding-left: 10%;
+  }
+
+   ul, ol{
+    margin-right: 50px;
+
+    margin-left: 50px;
+  }
+
+  .center{
+    width: 50%;
+
+    display: block;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    padding-top: 15px;
+
+    padding-bottom: 15px;
+
+  }
+
+  .fifty_cent{
+    margin-bottom: 50px;
+
+  }
+  
+  .line{
+    font-family: "Courier New", Courier;
+
+    font-size: 22px;
+
+    font-weight: bold;
+
+    display: block;
+
+    background-color: #333333;
+
+    color: #F5F5F5;
+
+    padding-top: 20px;
+
+    padding-bottom: 20px;
+
+  text-align: center;
+
+  }
+
+  .line2{
+    
+    display: block;
+
+    background-color: #333333;
+
+    color: #F5F5F5;
+
+    padding-top: 20px;
+
+    padding-bottom: 20px;
+
+  text-align: center;
+
+  }
+
+  
